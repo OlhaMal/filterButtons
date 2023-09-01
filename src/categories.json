@@ -1,0 +1,46 @@
+[
+  {
+    "category": "Сайт візитка",
+    "category_id": 1
+  },
+  {
+    "category": "Landing Page",
+    "category_id": 2
+  },
+  {
+    "category": "Корпоративний сайт",
+    "category_id": 3
+  },
+  {
+    "category": "Інтернет-магазин",
+    "category_id": 6
+  },
+  {
+    "category": "CRM-система",
+    "category_id": 8
+  },
+  {
+    "category": "Онлайн-обмінник",
+    "category_id": 12
+  },
+  {
+    "category": "Дропшиппінг-платформа",
+    "category_id": 15
+  },
+  {
+    "category": "Сайт для пошуку роботи",
+    "category_id": 16
+  },
+  {
+    "category": "Блог",
+    "category_id": 22
+  },
+  {
+    "category": "Онлайн-кінотеатр",
+    "category_id": 25
+  },
+  {
+    "category": "E-Commerce",
+    "category_id": 28
+  }
+]

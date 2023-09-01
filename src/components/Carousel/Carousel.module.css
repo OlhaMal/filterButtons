@@ -1,0 +1,60 @@
+.carousel {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 460px;
+  height: auto;
+  border: 1px solid black;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.container {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  position: relative;
+}
+
+.tabsing {
+  border: 0px;
+}
+
+.clearButt {
+
+}
+/* 
+.tabContainer {
+  display: flex;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.tabContainer div {
+  box-sizing: border-box;
+  white-space: nowrap;
+  padding: 5px;
+  padding-bottom: 20px;
+  font-size: 14px;
+}
+
+.tabContainer::-webkit-scrollbar {
+  height: 1px; /* Adjust as needed */
+  /* width: 1px;
+  background-color: transparent;
+} */
+
+/* .tabContainer::-webkit-scrollbar-track {
+  background-color: #e0e0e0;
+  width: 1px;
+}
+
+.tabContainer::-webkit-scrollbar-thumb {
+  background-color: #e0e0e0;
+  border-radius: 4px;
+  height: 1px;
+  width: 1px;
+}
+
+.tabContainer::-webkit-scrollbar-thumb:hover {
+  background-color: #e0e0e0;
+  width: 1px;
+} */ 
